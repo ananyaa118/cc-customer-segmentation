@@ -31,3 +31,8 @@ https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 * Principal Component Analysis 
 * K-means
 
+## Results
+
+### Clusters Formed
+![Clusters](clusters.png)
+
