@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 * Data Exploration
 * Normalization
 * Principal Component Analysis 
-* K-means
+* K-means Clustering
 
 ## Results
 
