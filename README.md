@@ -50,5 +50,7 @@ https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 * Group-3: Rich but Purchase less  
 This type of customers are rich people with a good amount of balance but not frequent buyers. Even with a lot of balance they still take a lot of cash advance to purchase suggesting that they buy expensive items.
 
+## Deployed Website Link
+https://cc-customer-segmentation.herokuapp.com/
 
 
