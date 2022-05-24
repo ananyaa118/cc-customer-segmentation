@@ -41,13 +41,13 @@ https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
 ### Customer Segments
 
-* Group-1: Poor & Inert
+* Group-1: Poor & Inert  
   This type of customers have less balance and less purchases. They only buy the necessities and don't take cash advance and installments to do so.
 
-* Group-2: Cream Customers
+* Group-2: Cream Customers  
   This type of customers do a lot of purchases. Take minimal cash advance to do purchases. They even have a good balance and can afford their buy.
   
-* Group-3: Rich but Purchase less
+* Group-3: Rich but Purchase less  
 This type of customers are rich people with a good amount of balance but not frequent buyers. Even with a lot of balance they still take a lot of cash advance to purchase suggesting that they buy expensive items.
 
 
